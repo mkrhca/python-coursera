@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """
-Example code to read and parse a CSV file
+Example code to read and parse a CSV file.
+Written by professors from rice University. Added here for my reference. 
 """
 
 from __future__ import print_function
